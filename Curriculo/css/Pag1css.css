@@ -1,0 +1,42 @@
+body{
+background-image: url("../Imagens/The_Library_-_Floor_of_Philosophy.png");
+background-size: cover;
+
+}
+table {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid black;
+            border-collapse: collapse;
+            width: auto;
+            font-size: 40px;
+            font-family: 'Courier New';
+}
+
+thead{
+
+    text-align: center;
+
+}
+th {
+    border: 1px solid black;
+    width: auto;
+    padding: 10px;
+
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    max-width: 700px;
+}
+
+img{
+    display: inline-block;
+    margin-bottom: 900px;
+    max-width: 100%; 
+    height: auto; 
+    border: 2px solid white;
+    border-radius: 10%;
+}
